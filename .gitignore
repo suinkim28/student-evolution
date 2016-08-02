@@ -3,4 +3,4 @@ config.py
 *.csv
 *.json
 *.zip
-__pycache/
+__pycache__/
