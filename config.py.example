@@ -1,0 +1,22 @@
+
+POSTGRES = {
+    'host': 'db.kaist.srv.elicer.io',
+    'port': 5432,
+    'db': 'elice',
+    'user': 'elice_ro',
+    'password': '434bed5529c4419cb4c5362cfc83294a'
+}
+
+MONGODB = {
+    'host': 'dev.kaist.srv.elicer.io',
+    'port': 41010,
+    'db': 'elice',
+    'user': 'guest',
+    'password': 'iwanttoaccessdb'
+}
+
+COURSE = {
+    'course_id': 7,
+    'lecture_id': 58,
+    'material_exercise_id': 305
+}
